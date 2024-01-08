@@ -1,0 +1,3 @@
+Amacınız, uygulamanızın tasarım hedeflerine ulaşmak için seçim ve yineleme deyimlerinin birleşimini uygulayan bir uygulama oluşturmaktı.
+
+Yineleme ve seçim deyimlerinin iç içe birleşimlerini oluşturarak, kullanıcının ourAnimals dizisinden evcil hayvan verilerini görüntülemesine olanak tanıyan bir kullanıcı arabirimi oluşturacaksınız. Ayrıca yeni evcil hayvanların özelliklerini girmek ve doğrulamak ve bunları ourAnimals dizisine eklemek için özellikleri geliştirdiniz. Uygulama kullanıcısı, uygulamadan çıkmayı seçene kadar menü seçimleri yapmaya devam edebilir.
