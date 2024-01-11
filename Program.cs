@@ -134,7 +134,7 @@ do//Programın menü seçeneklerini bir döngü içine alarak, kullanıcının m
             break;
 
         case "2":
-            // Add a new animal friend to the ourAnimals array
+            // Add a new animal friend to the ourAnimals array:
             //Console.WriteLine("this app feature is coming soon - please check back to see progress.");
             string anotherPet = "y";
             int petCount = 0;
